@@ -14,7 +14,11 @@
 
 </div>
 
+<<<<<<< HEAD
+[<< Day 21](../21_Introducing_Hooks/21_introducing_hooks.md) | [Day 23>>]()
+=======
 [<< Day 21](../21_Introducing_Hooks/21_introducing_hooks.md) | [Day 23>>](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md)
+>>>>>>> upstream/master
 
 ![30 Days of React banner](../images/30_days_of_react_banner_day_22.jpg)
 
@@ -969,5 +973,9 @@ ReactDOM.render(<App />, rootElement)
 Coming ..
 
 🎉 CONGRATULATIONS ! 🎉
+<<<<<<< HEAD
+[<< Day 21](../21_Introducing_Hooks/21_introducing_hooks.md) | [Day 23>>]()
+=======
 
 [<< Day 21](../21_Introducing_Hooks/21_introducing_hooks.md) | [Day 23>>](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md)
+>>>>>>> upstream/master
